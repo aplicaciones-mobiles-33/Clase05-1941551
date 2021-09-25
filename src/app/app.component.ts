@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-app';
+  usuarios = ['EmilianoSanchez', 'ruffles', 'usuario123'];
+
+  avatar= '../assets/imagenes/avatar.jpg'
 }
